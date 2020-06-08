@@ -121,3 +121,16 @@ optional arguments:
                         location of audio file to encrypt
   --verbose, -v
 ```
+
+## Appendix
+```
+Code was developed by the ShelterInPlaceHackers for project in couse CSE234: Cryptography
+
+Team Members
+
+============
+
+Jason Huang
+Jamie Deng
+Michael Covarrubias
+```
