@@ -124,7 +124,8 @@ optional arguments:
 
 ## Appendix
 ```
-Code was developed by the ShelterInPlaceHackers for project in couse CSE234: Cryptography
+Code was developed by the ShelterInPlaceHackers Teams for the course project in CSE234: Cryptography
+At UC Santa Cruz.
 
 Team Members
 
